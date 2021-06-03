@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case between the ld. mayor &amp; Commons of London concerning the election of sheriffs for the year ensuing, clearly stated : and the sense of some learned gentlemen of the gown concerning it, by way of answer to several questions truly and fully represented.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18548</idno><idno type="EEBO-CITATION">8882374</idno>
+  <idno type="VID">204346</idno>
+  <idno type="EEBO-PROQUEST">2264218527</idno>
+  
+            <idno type="STC">Wing C857</idno>
+            <idno type="OCLC">08882374</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204346)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1279:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case between the ld. mayor &amp; Commons of London concerning the election of sheriffs for the year ensuing, clearly stated : and the sense of some learned gentlemen of the gown concerning it, by way of answer to several questions truly and fully represented.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Read,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sheriffs --  England --  London.</term>
+               <term type="geographic_name">London (England) --  Officials and employees.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:204346:1"/>
+            <pb n="1" facs="tcp:204346:2"/>
+            <head>THE CASE BETWEEN THE L<seg rend="sup">D.</seg> MAYOR &amp; COMMONS OF LONDON Concerning the Election of Sheriffs For the Year ensuing, clearly Stated.</head>
+            <head type="sub">And the Sense of some Learned Gentlemen of the Gown concerning it, by way of ANSWER to several Questions truly and fully represented.</head>
+            <p>THE City of <hi>London</hi> is and time out of mind hath been Incorporate by divers Names, and amongst the rest, by the Name of <hi>Mayor, Commonalty,</hi> and <hi>Citizens</hi> of <hi>London.</hi>
+            </p>
+            <p>King <hi>John</hi> by his Charter did Grant <hi>Civ. Lond. vicecom. Lond. &amp; de Midd. cum omnibus rebus, &amp; consuetudinibus que pertinent ad predict. vicecom.</hi> And in another Clause, Grants <hi>Civit. Lond. quod ipsi de seipsis faciant Vicecom. quos{que} voluerint.</hi>
+            </p>
+            <p>As for Summoning the <hi>Folkmote</hi> or <hi>Common-Hall,</hi> it appears that Anciently they were Convened together by the Ringing of a great Bell, after that by the <hi>Mayor</hi> and <hi>Aldermen,</hi> but the certain Days for the <hi>Elections</hi> of the <hi>Mayor, Sheriffs,</hi> and other
+<pb n="2" facs="tcp:204346:3"/>principal Officers for the <hi>City,</hi> being setled by several Acts of <hi>Common-Council,</hi> the <hi>Citizens</hi> met of course at the prefixed time. For certain it is, among the many <hi>Precepts</hi> made out by the <hi>Mayors,</hi> and entred in the <hi>Journals</hi> of the <hi>City</hi> in the Reigns of <hi>Hen. 7. Hen.</hi> 8. <hi>Edw.</hi> 6. Q. <hi>M.</hi> and Q. <hi>Eliz.</hi> there is not one <hi>Precept</hi> to be found for Summoning the <hi>Common-Hall</hi> by the <hi>Mayor,</hi> tho' by the Ancient Entries it may seem some Notice or Remembrance was given as well to the <hi>Mayor</hi> and <hi>Aldermen,</hi> as to the <hi>Commons.</hi> Nay sometimes it was Ordered by the <hi>Com<g ref="char:EOLhyphen"/>mon-Council,</hi> That the <hi>Common-Hall</hi> should Assemble upon such and such a Day, at such and such an Hour, for such <hi>Elections;</hi> and not only so, but some of the chief <hi>Aldermen</hi> have Ordered the meeting of a <hi>Common-Hall.</hi>
+            </p>
+            <p>Upon the meeting of the <hi>Common-Hall,</hi> the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> for their conveniency sitting in the place where the <hi>Court</hi> of <hi>Hustings</hi> are usually kept, the <hi>Recorder</hi> declares to the <hi>Hall</hi> the Cause of their Assembly to be for the choosing of <hi>Mayor, Sheriffs, Chamberlain, Bridge-Masters,</hi> and other Officers, and when he hath so done, his <hi>Lordship</hi> with the <hi>Aldermen</hi> have used to go away and leave the <hi>Hall</hi> to proceed in their <hi>Elections.</hi>
+            </p>
+            <p>That the <hi>Sheriffs</hi> for the time being have constantly used to manage the <hi>Elections</hi> to distinguish if they can by holding up of the hands of the <hi>Electors</hi> who hath the greater number, but if a Pole be desired, the <hi>Sheriffs</hi> have constantly appointed the Tellers and manag'd the Pole, and when finished they come to the <hi>Lord Mayor</hi> and <hi>Aldermen,</hi> in a Room apart in the <hi>Guild-Hall</hi> and tell them what hath been done, and upon whom the <hi>Election</hi> hath fallen; and then the <hi>Lord Mayor</hi> and <hi>Aldermen</hi> usually return upon the place where the <hi>Hustings</hi> is usually kept, and declare by the <hi>Recorder</hi> to the <hi>Hall,</hi> who have the <hi>Election,</hi> and thereupon Proclamation is usually made by the <hi>Common-Cryer</hi> that the Assembly depart.</p>
+            <p>That it hath sometimes but rarely happened, and but of late days, either through shortness of time or some other great occasion, the <hi>Election</hi> or <hi>Pole</hi> could not be finished; and then the <hi>Sheriffs</hi> have declared, That the Assembly should depart and the time for the next Assembly, and accordingly they have at the appointed time re-assembled, and proceeded and finished.</p>
+            <pb n="3" facs="tcp:204346:3"/>
+            <p>That there is no instance that ever any <hi>Lord Mayor</hi> hath Ad<g ref="char:EOLhyphen"/>journed or Dissolved the <hi>Common-Hall</hi> without their Assent be<g ref="char:EOLhyphen"/>fore the <hi>Elections</hi> finished, but only one in the time of Sir <hi>Samuel Sterling</hi> Lord Mayor, about the Office of <hi>Bridge-Master,</hi> for which Damages was recovered against him.</p>
+            <p>That a <hi>Comman-Hall</hi> was Summon'd by the <hi>Lord Mayor,</hi> and met upon <hi>Midsummer</hi> day last, that the <hi>Recorder</hi> declared the occasion of their Assembly to choose the Officers, and then the <hi>Lord Mayor, Aldermen,</hi> and <hi>Recorder</hi> withdrew.</p>
+            <p>That the <hi>Sheriffs</hi> proceeded to manage the <hi>Election; Cham<g ref="char:EOLhyphen"/>berlain, Bridge-Masters,</hi> and all the other Officers were Elected, but a <hi>Poll</hi> desired concerning the <hi>Sheriffs,</hi> thereupon the Assem<g ref="char:EOLhyphen"/>bly adjourned out of the <hi>Hall</hi> into the Yard called the <hi>Guild-Hall-Yard,</hi> and there proceeded taking the <hi>Poll.</hi>
+            </p>
+            <p>About <hi>Seven</hi> of the Clock that day the <hi>Lord Mayor</hi> comes upon the place where the <hi>Hustings</hi> Court is usually kept in the <hi>Hall,</hi> (the Assembly being adjourned out of the <hi>Hall</hi> into the <hi>Yard,</hi> and then <hi>Polling</hi> in the <hi>Yard,</hi>) and by the <hi>Common-Cryer</hi> standing upon that place in the <hi>Hall</hi> by Proclamation declares, That the Assembly depart, but to Assemble again upon <hi>Tuesday</hi> following at <hi>Nine</hi> o'th Clock. There were a great number of People in the <hi>Hall,</hi> when this was declared, and the News of it was carried out to the <hi>Sheriffs</hi> then proceeding in the <hi>Poll</hi> in the <hi>Yard.</hi>
+            </p>
+            <p>The <hi>Sheriffs</hi> did not thereupon desist, but went on <hi>Polling</hi> till about <hi>Eight</hi> of the Clock, and then the <hi>Sheriffs</hi> declare, That the People should depart, and Assemble again upon <hi>Tuesday</hi> following, at <hi>Nine</hi> o'th Clock.</p>
+            <p>It was accordingly done, and upon <hi>Tuesday</hi> the <hi>Hall</hi> Assem<g ref="char:EOLhyphen"/>bles again, and then the <hi>Lord Mayor</hi> upon the place of the <hi>Hustings</hi> by the <hi>Cryer</hi> declares, That they shall depart, and As<g ref="char:EOLhyphen"/>semble again upon <hi>Wednesday</hi> come seven night.</p>
+            <p>Upon <hi>Wednesday</hi> they Assemble again, but the <hi>Lord Mayor</hi> happening to be taken sick and not able to come abroad some of the <hi>Aldermen</hi> and <hi>Recorder</hi> go to him, and he being on his Bed declares to them his Condition, and mind, which on <hi>Friday</hi> following was written down from his own mouth in the Court of <hi>Aldermen,</hi> (and then delivered to the <hi>Four</hi> Counsel whose Opinions was desired) in these Words (viz.) <hi>The Lord Mayor desired the Recorder to acquaint the Common-Hall that he could
+<pb n="4" facs="tcp:204346:4"/>not come himself, but directed that the Court might be Adjourned to</hi> Friday <hi>at Nine of the Clock.</hi>
+            </p>
+            <p>Thereupon some of the <hi>Aldermen</hi> and the <hi>Recorder</hi> about <hi>Ten</hi> of the Clock goe upon the place of the <hi>Hustings,</hi> and the <hi>Re<g ref="char:EOLhyphen"/>corder</hi> saith thus:</p>
+            <p>
+               <hi>Gentlemen, I am to Acquaint you with a Message from my Lord Mayor, That he is fallen very ill, so that he cannot fiir from his Bed, and therefore does desire that this</hi> Common-Hall <hi>may be Adjourned till</hi> Friday <hi>morning Nine of the Clock.</hi> And then the <hi>Aldermen</hi> and <hi>Recorder</hi> depart, and the voice of the <hi>Hall</hi> being against an Adjournment, a <hi>Question</hi> was demanded to be put to the <hi>Common-Hall,</hi> whether they would Adjourn or not, and that <hi>Question</hi> was put to them and carryed in the Negative. And upon a Second <hi>Question,</hi> Whether the <hi>Sheriffs</hi> should at that time proceed upon and finish the <hi>Poll</hi> or not? It was carryed in the Affirmative. And thereupon the <hi>Sheriffs</hi> proceed, and about Three of the Clock finish the <hi>Poll.</hi> Afterwards at the instance of the <hi>Common-Hall</hi> a <hi>Question</hi> being put, Whether they should then declare the <hi>Poll,</hi> and publish the <hi>Election?</hi> It was carryed in the Affirmative. Whereupon the <hi>Sheriffs</hi> at the instance of the <hi>Common-Hall</hi> did declare the <hi>Poll,</hi> and pub<g ref="char:EOLhyphen"/>lish the <hi>Election</hi> to fall upon Mr. <hi>Thomas Papillion,</hi> and Mr. <hi>John Dubois,</hi> which done the <hi>Common-Hall</hi> dissolved: Afterwards the <hi>Sheriffs</hi> acquainted the <hi>Lord Mayor</hi> in the <hi>Court of Aldermen</hi> with what was done.</p>
+            <p>Upon <hi>Friday</hi> there being a great number of the <hi>Citizens</hi> Assembled in the <hi>Hall,</hi> the <hi>Lord Mayor</hi> comes upon the place of the <hi>Hustings,</hi> and the <hi>Common Cryer</hi> declares that the Assem<g ref="char:EOLhyphen"/>bly may depart, and give their Attendance again on <hi>Friday</hi> next.</p>
+            <pb n="5" facs="tcp:204346:4"/>
+            <div n="1" type="question">
+               <head>Qu. 1. <hi>Whether the Lord Mayor has power to Adjourn or put off the Common Hall without their Consent?</hi>
+               </head>
+               <p>For Order sake, it has been used and allowed to the Lord Mayor to Summon the Common Hall; and when their business is done, and not before; to cause Proclamation to be made, and to dismiss them. His Duty in the mean time, if he have any thing to do, is to take care that they be not interrupted in their Business either by himself or others.</p>
+               <p>Most especially he ought not to be concerned in the Election of She<g ref="char:EOLhyphen"/>riffs; for, they are not properly Corporate Officers; and the Citizens Electing them is by Charter, which is granted, to the Citizens <hi>Cives London;</hi> and the Mayor is not named in the Charter; nor can have any share in their Election, otherwise than as he comes under the ge<g ref="char:EOLhyphen"/>neral name of a Citizen.</p>
+               <p>This is an Assembly of the Citizens, and their business is to Chuse Officers. It has no Jurisdiction. It is no Court; and neither the Lord Mayor, nor any other person is, or can be Judge there.</p>
+               <p>Like an Assembly of Parishioners to Chuse Church Wardens, <hi>&amp;c.</hi>
+               </p>
+               <p>The Assembly may be held without the Mayor: If he die in his Mayoralty, they may Assemble and Chuse another; and so they may if he commit a Crime against his Duty and Trust.</p>
+               <p>If he will not Summon them at all, yet they may Assemble; or otherwise it would be in his power to cause a Forfeiture of their Li<g ref="char:EOLhyphen"/>berties for want of making Elections.</p>
+               <p>If on <hi>Midsummer Eve</hi> he should fall into a Feaver, and grow deli<g ref="char:EOLhyphen"/>rious, or speechless, they might nevertheless proceed.</p>
+               <p>And as they may voluntarily come together for these occasions, so they may voluntarily Recede and Adjourn if they will.</p>
+               <p>Had Sir <hi>William Wild</hi> been Recorder, he would have declar'd as he did when he was Judge, in the Case of <hi>Turner</hi> against Sir <hi>Samuel Starling, That the Mayor could not dismiss this Assembly</hi> sine Assensu, <hi>or</hi> contra Voluntatem Electorum, as that Record says. With whom agreed the rest of the Judges of the Court of Common-Pleas; and also the Lord Chief Justice <hi>Hale,</hi> and the rest of the Judges of the <hi>King</hi>'s-<hi>Bench,</hi> upon solemn Arguments in both Courts.</p>
+               <p>And they all commended this for very good Law and Custom, and determined that he was punishable by Actions; and also in a publick way by Information, <hi>&amp;c.</hi> For otherwise it would be in every Chief Officer's Power, in all Corporations, to disappoint all Elections, or to get whom he would Chosen, and whom he would Refused, by putting off from time to time, and tyring the Electors, or stealing an oppor<g ref="char:EOLhyphen"/>tunity of Election of insufficient and unworthy Persons at any one day, when the great part of the Electors are gone into the Country, or to Fairs, <hi>&amp;c.</hi> who had they been present, would have Chosen others. And by this means he would make himself Arbiter and Disposer of all Elections which belong to the Citizens: For the Grants are to the Citizens. And the King has trusted the Citizens with these Elections. And it is the King's▪ Prerogative to make such Grants. and to have
+<pb n="6" facs="tcp:204346:5"/>them observed. And the Mayor himself is Chosen by the Citizens, and is their Officer.</p>
+               <p>In Sir <hi>Robert Viner</hi>'s Mayoralty, a Common Council was held by Advice of Council, though his Lordship took up the Sword, and went away, which is a much stronger Case.</p>
+               <p>The Speaker of the House of Lords, or the Speaker of the House of Commons cannot Adjourn without consent of the House; no not by Command of the King, who may Prorogue or Dissolve. This is declared in the Roll of the collected standing Orders of the Lords House in King <hi>James</hi>'s time, and was declared a standing Order in the Commons, <hi>Decemb.</hi> 1678.</p>
+               <p>Such an extravagant exorbitant Power was never hitherto thought of, that a Mayor's single Vote should over-rule the Votes of the whole Corporation.</p>
+               <p>All Corporations then are at the mercy of their Officer.</p>
+               <p>It is impossible the Lord Mayor should do any such Act without the consent of his Fellow-Citizens.</p>
+               <p>The Lord Mayor is not a Judge here, but an Officer; he is not to Rule them in the Common-Hall; but to serve them, when they have done, to publish their Election, and proclaim their Dismission or Dis<g ref="char:EOLhyphen"/>solution.</p>
+               <p>And it is a wonderful Arrogance, that a Mayor that is a Creature made by the pleasure of the Citizens, should take upon him a Power to controll all them, or the major part (which is the same.)</p>
+               <p>My Lord <hi>Hobart</hi> sayes, <hi>If the King Incorporate a Town they may Chuse a Mayor or Head-Officer, though it be not expresly granted.</hi> But can any sensible Man imagine, that when all the Members of any City, or Town Corporate Chuse a Mayor, that they give him a Power, that in case he and they regularly meet about Corporation-business, and they think fit to proceed with it, and he thinks other<g ref="char:EOLhyphen"/>wise, that he alone should controll them, and interrupt for a time, if he will, and if he will for ever, all the business of the Universality, and destroy the very Inheritance of their Liberties. And so in time to come it may fall into the Hands of a Bankrupt or Beggar, a weak or a wicked man, who (it may be) will sell all the Interest he has in the world for a hundred pound, to destroy the Liberties of the Corpo<g ref="char:EOLhyphen"/>ration, who happen to misplace the Mayoralty upon him, and even the Liberties of this Great <hi>Opulent</hi> and Renowned City, which concern so many hundred thousand persons, and which are the greatest In<g ref="char:EOLhyphen"/>heritance that is, or ever was, or can be among the Subjects of <hi>England.</hi>
+               </p>
+            </div>
+            <div n="2" type="question">
+               <head>Qu. 2. <hi>Whether the Lord Mayor or could give authority to the Recorder, or any other person, to adjourn the Common Hall?</hi>
+               </head>
+               <p>Mr. Recorder, by vertue of his Office, had no Authority in the Com<g ref="char:EOLhyphen"/>mon-Hall, and was not constituted, nor (being not a Citizen) was he capable of being constituted <hi>locum tenens,</hi> or Deputy-Mayor, it must be an Alderman. Mr. Recorder could be no more than a Mes<g ref="char:EOLhyphen"/>senger. If my Lord Mayor had sent his Sword-Bearer, or his Foot-man
+<pb n="7" facs="tcp:204346:5"/>instead of him, the <hi>Decorum</hi> had not been so much: But the Authority had been the same, and the Law the same.</p>
+               <p>The Livery-Men may as well send their Votes by Messengers.</p>
+               <p>The Mayor and Citizens might as well do all their businesses by Mes<g ref="char:EOLhyphen"/>sages or Proxys, without meeting <hi>in Congregatione,</hi> as the Common-Hall is called.</p>
+               <p>The Puisnee Judge that is to adjourn the Court at <hi>Westminster,</hi> can<g ref="char:EOLhyphen"/>not do it by any Person that he can send.</p>
+               <p>An Adjournment intended or declared out of Court, cannot be an Adjournment of a Court.</p>
+               <p>It is not to be delegated. What Power the Mayor has is but delega<g ref="char:EOLhyphen"/>ted from the Citizens, <hi>Potestas delegata non potest delegari.</hi> At least it must be to a <hi>locum tenens.</hi>
+               </p>
+            </div>
+            <div n="3" type="question">
+               <head>Qu. 3. <hi>Whether that which the Lord Mayor in his Sickness did do, as above, gave Authority to the Recorder to do it? And whether it was thereby so put off, or adjourned, as it could not regularly pro<g ref="char:EOLhyphen"/>ceed?</hi>
+               </head>
+               <p>My Lord-Mayors words do not purport that the Adjournment should be made by Mr. Recorder, nor was it possible to be done by him.</p>
+               <p>The words remembred by my Lord-Mayor, and those delivered by Mr. Recorder, all men agree to be the same in Substance, and would be equally effectual if there were a Foundation: But they are altogether ineffectual.</p>
+               <p>And if Mr. Recorder had dishonoured his place so much, as to have taken upon him the part of the common Cryer, to pronounce the words of Adjournment, nay, and if he had had, which he had not, an Order from my Lord-Mayor so to do, yet that would not have altered the case. The Common Hall were right in their Opinion, that Adjourn<g ref="char:EOLhyphen"/>ment could not be without their consent, whatsoever form of words had been spoken to them.</p>
+               <p>But the words as they were conceived, shew the Prudence of my Lord-Mayor and Mr. Recorder▪ that they did not pretend to take upon them a Power which no Law, Usuage, or Reason gave them; where<g ref="char:EOLhyphen"/>by they would have put themselves into a much worse case than that of Sir <hi>Samuel Starling:</hi> For here was a greater defect of Power than in that case. Sir <hi>Samuel Starling</hi> defended himself at the Tryal, alledging that he had no power to dismiss the Common-Hall till they had finished their Election, and they might have stayed, notwithstanding his Pro<g ref="char:EOLhyphen"/>clamation, it was their fault or errour to go away. But the Lord-Chief-Justice said, that defence would not serve him; for if he, or any other person pretending to power, should take upon him to put off the Assem<g ref="char:EOLhyphen"/>bly, it was highly punishable, and it did rather aggravate and double the Offence, to say he deceived and disappointed the people of their Right of continuing there by pretence of an usurpt Power, which in Truth and in Law he never had. And yet he was Mayor and present, whereas here the Mayor was not present, and Mr. Recorder was no Of<g ref="char:EOLhyphen"/>ficer to the Common-Hall, nor a Freeman, nor a Member of the City. Most certain<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y as this case is, there was no way of Adjourning the Com<g ref="char:EOLhyphen"/>mon-Hall,
+<pb n="8" facs="tcp:204346:6"/>but by the complyance of the Livery-Men. And if upon this Intimation they had gone away, that tacite consent perhaps had been a sufficient Adjournment or putting off. But on the contrary, all the Hall disagreeing to it, they went on regularly; and as regularly as ever they used to or can do.</p>
+               <p>For till last <hi>Midsummer-day</hi> there never was a Mayor that ever pre<g ref="char:EOLhyphen"/>tended to interpose while the Citizens were a Polling.</p>
+               <p>If the Recorder had arrogated this to himself, he must have answer<g ref="char:EOLhyphen"/>ed for it in Actions at the Suit of the Persons that were to be Elected, and at the Suit of every Elector who was disappinted of his Voice, or of the fruit of his Voice, liable to Information, Indictment, and Impeach<g ref="char:EOLhyphen"/>ment, and exposed to the contempt of all men, especially of his own Profession.</p>
+               <p>This could never be an Adjournment being not declared to be either by Mayor or Recorder, nor intended, or if it had been intended and de<g ref="char:EOLhyphen"/>clared, yet was impossible and void, against the consent of the Com<g ref="char:EOLhyphen"/>mon-Hall.</p>
+               <p>It were to study impossibilities, to go about to advise or invent any way, form, or means of adjourning the Common-Hall in this case a<g ref="char:EOLhyphen"/>gainst their consent.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Read.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
